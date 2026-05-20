@@ -6,7 +6,7 @@ This project is a web-based Smart QR Code Generator built using HTML, CSS, and J
 **Basic Features:**
 
 * Enter text or URL
-* Generate QR code instantly
+* Generate QR code instantly,
 * Download QR code image
 * Copy input link
 
